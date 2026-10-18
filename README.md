@@ -22,6 +22,7 @@ Visualizar información de los clientes para identificar cómo se distribuyen po
 ## Archivos
 
 - `perfil-analisis-clientes.pbix`: archivo del informe de Power BI
+- ![Vista previa del dashboard](dash.png)
 
 ## Fuente de datos
 
